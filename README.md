@@ -1,4 +1,4 @@
 # dennis-ritchie-tribute
-Dennis Ritchie Tribute Page - Created as part of freecodecamp.org's Responsive Web Design exercises
+Created as part of freecodecamp.org's Responsive Web Design exercises
 
 Viewable here: [Dennis Ritchie Tribute Page](https://mviolet.github.io/dennis-ritchie-tribute/)
