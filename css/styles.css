@@ -28,6 +28,7 @@ footer a:hover{
 }
 
 img {
+  display: block;
 	max-width: 100%;
 	margin: auto;
 }
@@ -63,11 +64,19 @@ blockquote footer {
 	font-size: 15px;
 }
 
-#title {
+#title, h2 {
 	color: #2d2d2d;
-	/*text-shadow: 2px 2px #00FA9A;*/
+  margin-bottom: 0;
+	text-shadow: 2px 2px #00FA9A;
 	justify-self: center;
 	font-size: 2em;
 	font-style: italic;
 	font-family: "Roboto Mono";
 }
+
+h2 {
+  font-size: 1em;
+  margin-bottom: 30px;
+  text-shadow: none;
+}
+
