@@ -5,13 +5,13 @@ body {
 	margin: 0px;
 }
 
-footer a, footer a:visited {
+footer a, footer a:visited, footer a:active {
 	color: #00FA9A;
 	text-decoration: none;
 }
 
 footer a:hover{
-	color: white;
+	color: #00ba73;
 }
 
 #footer {
@@ -78,5 +78,13 @@ h2 {
   font-size: 1em;
   margin-bottom: 30px;
   text-shadow: none;
+}
+
+#copy {
+  font-size: .9em;
+  padding-top: 20px;
+  font-style: italic;
+  color: #545454;
+  text-align: center;
 }
 
